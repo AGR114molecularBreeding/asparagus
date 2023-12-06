@@ -1,2 +1,8 @@
-Description
-Flowering time involves the transition from vegetative growth to the flowering state and it refers to the number of days from sowing to the appearance of the first fully opened flower. Flowering time is the major domestication trait defining the adaptation of chickpea to different agro-climatic conditions, and therefore is a major determinant of its productivity. Despite early flowering time being suggested as a means to increase chickpea adaptability roughly 45 years ago , studies on the genetic control of flowering time have appeared only within the 21st century. Although classical genetic analyses have provided a wealth of valuable information, the molecular identities of genes underlying the major flowering time locus remains mostly elusive.
+# Publications
+You can find a list of our latest research and/or publications here : 
+
+  * Moreno et al. Editorial: Advances in conservation, characterization, and use of asparagus genetic resources. [Front. Plant Sci.](https://www.frontiersin.org/articles/10.3389/fpls.2023.1332117/full) 2023.  
+  * Garcia et al. Genomic data of two chickpea populations sharing a potential Ascochyta blight resistance region. [Horticulturae](QTL Analysis of Morpho-Agronomic Traits in Garden Asparagus (Asparagus officinalis L.)) 2023.
+  * Genetic Variability Assessment of a Diploid Pre-Breeding Asparagus Population Developed Using the Tetraploid Landrace ‘Morado de Huétor’. [Horticulturae](https://www.mdpi.com/2311-7524/8/10/859) 2022.
+    
+    
