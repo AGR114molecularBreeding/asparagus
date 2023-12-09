@@ -11,4 +11,5 @@ You can find a list of our latest research and/or publications here :
 ## Resources
 
  * NCBI [Asparagus officinalis](https://ftp.ncbi.nlm.nih.gov/genomes/refseq/plant/Asparagus_officinalis/all_assembly_versions/GCF_001876935.1_Aspof.V1/) FTP site (GCF_001876935.1_Aspof.V1)    
- * NCBI [genomes](https://ftp.ncbi.nlm.nih.gov/genomes/all/) FTP site  
+ * NCBI [genomes](https://ftp.ncbi.nlm.nih.gov/genomes/all/) FTP site
+ * [SRA-Explorer](https://sra-explorer.info/)
